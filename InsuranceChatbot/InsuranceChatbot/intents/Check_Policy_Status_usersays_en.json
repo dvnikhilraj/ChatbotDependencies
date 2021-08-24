@@ -1,0 +1,79 @@
+[
+  {
+    "id": "cb3ba4bd-c23b-4041-85e0-348fd0470108",
+    "data": [
+      {
+        "text": "Can i know the status of my policy ",
+        "userDefined": false
+      },
+      {
+        "text": "1234567890",
+        "meta": "@Policy_Number",
+        "alias": "Policy_Number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99575fdd-134b-4bf7-bdc4-8afef595b091",
+    "data": [
+      {
+        "text": "Status of my policy ",
+        "userDefined": false
+      },
+      {
+        "text": "1234578900",
+        "meta": "@Policy_Number",
+        "alias": "Policy_Number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2945ab42-3d81-4cc2-bb38-650149b945ce",
+    "data": [
+      {
+        "text": "status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdc97382-b4ba-4340-8527-b15518b185ea",
+    "data": [
+      {
+        "text": "Policy status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1254efc6-7ac9-4ed2-ad85-e54485418578",
+    "data": [
+      {
+        "text": "Check policy status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

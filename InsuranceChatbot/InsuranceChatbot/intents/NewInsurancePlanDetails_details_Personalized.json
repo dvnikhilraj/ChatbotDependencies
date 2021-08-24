@@ -1,0 +1,38 @@
+{
+  "id": "12b90a01-69d6-4909-96d6-7efb13e374ca",
+  "name": "NewInsurancePlanDetails_details_Personalized",
+  "auto": true,
+  "contexts": [
+    "Save_Enquiry_Details",
+    "New_Insurance_Details_followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "NewInsurancePlanDetails.NewInsurancePlanDetails-custom.NewInsurancePlanDetails_details-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I am sorry I can\u0027t provide you with an Instant Quote. Please contact the customer service desk with ID number : 234567890 to get a personalized quote"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

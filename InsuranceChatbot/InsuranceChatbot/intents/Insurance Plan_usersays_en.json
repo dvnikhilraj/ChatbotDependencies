@@ -1,0 +1,28 @@
+[
+  {
+    "id": "721d69db-f054-4916-bed4-ecccee5b430b",
+    "data": [
+      {
+        "text": "Motor insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be91473c-b156-472a-93a0-7fe0dd936b92",
+    "data": [
+      {
+        "text": "What are the insurance plans that are available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

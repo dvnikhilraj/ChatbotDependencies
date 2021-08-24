@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4538d103-db61-4522-b285-6db390aee12d",
+    "data": [
+      {
+        "text": "1997",
+        "meta": "@ModelYear",
+        "alias": "ModelYear",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55f94304-b516-46d6-b272-8cfa60596a9b",
+    "data": [
+      {
+        "text": "2020",
+        "meta": "@ModelYear",
+        "alias": "ModelYear",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d377cda5-073f-4bee-85cc-6644e7427eb2",
+    "data": [
+      {
+        "text": "1995",
+        "meta": "@ModelYear",
+        "alias": "ModelYear",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82712972-a729-44ae-b179-beea596a9ba5",
+    "data": [
+      {
+        "text": "4Y1SL65848Z411439",
+        "meta": "@Vin_Number",
+        "alias": "Vin_Number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

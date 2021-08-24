@@ -1,0 +1,9 @@
+{
+  "id": "f0a30c2a-0ec8-4146-abf5-8295bf28a37e",
+  "name": "Otp_Number",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

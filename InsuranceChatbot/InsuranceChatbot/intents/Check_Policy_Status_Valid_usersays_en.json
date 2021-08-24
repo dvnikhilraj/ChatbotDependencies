@@ -1,0 +1,55 @@
+[
+  {
+    "id": "d3c56828-c8c2-4f53-8262-786fc2e46026",
+    "data": [
+      {
+        "text": "The otp is ",
+        "userDefined": false
+      },
+      {
+        "text": "12345",
+        "meta": "@Otp_Number",
+        "alias": "otp_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9837d590-c3ff-4c99-9ad7-46ddf3442fd8",
+    "data": [
+      {
+        "text": "Otp is ",
+        "userDefined": false
+      },
+      {
+        "text": "12345",
+        "meta": "@Otp_Number",
+        "alias": "otp_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df15f7da-f530-4bb9-9460-0b156da5044f",
+    "data": [
+      {
+        "text": "12345",
+        "meta": "@Otp_Number",
+        "alias": "otp_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

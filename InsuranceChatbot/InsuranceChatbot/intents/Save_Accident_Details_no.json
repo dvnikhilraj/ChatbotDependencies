@@ -1,0 +1,50 @@
+{
+  "id": "fa56d671-0ce4-4147-9c78-5ab44fc194f9",
+  "parentId": "8d2717b4-042b-453a-83bf-75c1f9ebeaed",
+  "rootParentId": "8d2717b4-042b-453a-83bf-75c1f9ebeaed",
+  "name": "Save_Accident_Details_no",
+  "auto": true,
+  "contexts": [
+    "Save_Enquiry_Details",
+    "Save_Accident_Details-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Save_Accident_Details.Save_Accident_Details-no",
+      "affectedContexts": [
+        {
+          "name": "Save_Accident_No",
+          "lifespan": 5
+        },
+        {
+          "name": "Save_Enquiry_Details",
+          "lifespan": 5
+        },
+        {
+          "name": "No_New_Insurance_follow_up",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

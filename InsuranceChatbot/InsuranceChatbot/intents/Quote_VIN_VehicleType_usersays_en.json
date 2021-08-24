@@ -1,0 +1,28 @@
+[
+  {
+    "id": "c2ee7526-d25b-4225-a303-0cb7f454d6cb",
+    "data": [
+      {
+        "text": "Rental Car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c60944b-8bba-4205-9caf-700eeaf4db20",
+    "data": [
+      {
+        "text": "Own Car",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

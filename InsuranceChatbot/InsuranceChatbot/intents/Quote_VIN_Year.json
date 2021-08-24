@@ -1,0 +1,93 @@
+{
+  "id": "cec2d222-daed-4be3-aa65-f3e10689ce69",
+  "parentId": "d0ce231e-2cd0-4f5a-93c3-e395c8eb84c6",
+  "rootParentId": "c9ee9589-63fb-441b-8711-f936ebd9e80a",
+  "name": "Quote_VIN_Year",
+  "auto": true,
+  "contexts": [
+    "Save_Enquiry_Details",
+    "Quote_VIN-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Get_Insurance_Quote.Get_Insurance_Quote-custom.Get_Insurance_Quote_Auto-custom.Get_Insurance_Quote_Auto_Zip-custom.Insurance_Quote_SaveData-custom.Quote_VIN-custom",
+      "affectedContexts": [
+        {
+          "name": "Quote_VIN_Year-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "Save_Enquiry_Details",
+          "lifespan": 15
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b677d2cb-3e46-46f8-9218-ef7f8afe984e",
+          "name": "Vin_Number",
+          "required": true,
+          "dataType": "@Vin_Number",
+          "value": "$Vin_Number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please provide your VIN number"
+            },
+            {
+              "lang": "en",
+              "value": "Kindly provide your VIN number"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "dbbf778c-cb43-4b6d-9754-36dc0035fd06",
+          "name": "ModelYear",
+          "required": true,
+          "dataType": "@ModelYear",
+          "value": "$ModelYear",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please provide the model year"
+            },
+            {
+              "lang": "en",
+              "value": "Kindly provide the model year"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "cf6398c9-1529-4655-b3c7-99e5b775d97b",
+    "data": [
+      {
+        "text": "Open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5072cbaf-6679-48d7-b8e4-6ec415decf6b",
+    "data": [
+      {
+        "text": "Welcome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

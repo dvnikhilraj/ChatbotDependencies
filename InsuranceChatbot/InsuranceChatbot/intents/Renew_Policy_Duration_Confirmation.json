@@ -1,0 +1,35 @@
+{
+  "id": "51ae56ce-f4d7-4f4a-bbbe-3ea12185dab4",
+  "name": "Renew_Policy_Duration_Confirmation",
+  "auto": true,
+  "contexts": [
+    "Renew_Policy_Duration-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Renew_Policy.Renew_Policy-custom.Renew_Policy_Otp_Verification-custom.Renew_Policy_Duration-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

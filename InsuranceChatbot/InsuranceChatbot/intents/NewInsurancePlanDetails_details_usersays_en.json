@@ -1,0 +1,28 @@
+[
+  {
+    "id": "46d1de2e-1819-4845-9036-a63140099d0f",
+    "data": [
+      {
+        "text": "Immediately",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f5cbd62-5566-45a5-9b56-f4e8c9ed5dee",
+    "data": [
+      {
+        "text": "Post expiration of insurance plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

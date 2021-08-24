@@ -1,0 +1,80 @@
+[
+  {
+    "id": "8903b8ec-58d3-4ffd-aeac-6aeae5680895",
+    "data": [
+      {
+        "text": "not satisfied with price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a9110fe-d841-44ea-831c-3e79bb9fc687",
+    "data": [
+      {
+        "text": "too pricy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ace786aa-4ead-45e8-bec6-256ddf46dbf4",
+    "data": [
+      {
+        "text": "high price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1910923e-8775-47b5-ac2e-3e2659c67aca",
+    "data": [
+      {
+        "text": "not satisfied",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da5fce46-2f5d-44e3-8680-53cfab6926d6",
+    "data": [
+      {
+        "text": "I",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7fd3a869-22c1-4602-b744-d8c06a15127e",
+    "data": [
+      {
+        "text": "Because",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

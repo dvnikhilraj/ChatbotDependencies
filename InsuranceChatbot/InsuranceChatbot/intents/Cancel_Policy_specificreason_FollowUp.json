@@ -1,0 +1,39 @@
+{
+  "id": "f2433b89-9660-44c7-a671-bd9fe9e87b93",
+  "name": "Cancel_Policy_specificreason_FollowUp",
+  "auto": true,
+  "contexts": [
+    "Cancel_Policy_Specific"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Cancel_Policy.Cancel_Policy-custom.Cancel_Policy_valid-custom.Cancel_Policy_specificreason-custom",
+      "affectedContexts": [
+        {
+          "name": "Cancel_Policy_Confirmation",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "041c3800-223c-4db9-990b-a5082d466e0c",
+  "name": "Cancel_Policy_Confirmation",
+  "auto": true,
+  "contexts": [
+    "Cancel_Policy_Confirmation",
+    "Cancel_Policy-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

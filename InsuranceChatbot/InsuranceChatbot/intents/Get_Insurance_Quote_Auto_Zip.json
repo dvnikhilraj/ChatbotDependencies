@@ -1,0 +1,67 @@
+{
+  "id": "d8033e94-f60c-479f-933c-e4c332baf7e6",
+  "parentId": "b71dec95-7ec1-4539-a6a9-e212e4b98473",
+  "rootParentId": "c9ee9589-63fb-441b-8711-f936ebd9e80a",
+  "name": "Get_Insurance_Quote_Auto_Zip",
+  "auto": true,
+  "contexts": [
+    "Get_Insurance_Quote-followup",
+    "Get_Insurance_Quote_Auto-followup",
+    "quote_type"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Get_Insurance_Quote.Get_Insurance_Quote-custom.Get_Insurance_Quote_Auto-custom",
+      "affectedContexts": [
+        {
+          "name": "Get_Insurance_Quote_Auto_Zip-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "quote_type",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cb76e1b1-f18a-4fbc-863d-36756764bbb4",
+          "name": "zipCode",
+          "required": true,
+          "dataType": "@sys.zip-code",
+          "value": "$zipCode",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter a correct zip"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

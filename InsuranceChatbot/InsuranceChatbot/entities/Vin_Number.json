@@ -1,0 +1,9 @@
+{
+  "id": "17ef2749-c678-4b90-b695-de0b9c3f0881",
+  "name": "Vin_Number",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

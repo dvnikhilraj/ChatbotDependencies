@@ -1,0 +1,67 @@
+[
+  {
+    "id": "13ccf8ef-c04e-42fc-ab6d-aa7b0b567d8b",
+    "data": [
+      {
+        "text": "quoet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a98e8fa-f5a8-4b61-9e3e-c33b51e216db",
+    "data": [
+      {
+        "text": "Quote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8bf18b60-f7c9-46be-a7b2-f24c0636ca6e",
+    "data": [
+      {
+        "text": "Provide me a quote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28a51a48-5f7e-49b7-81e0-2909c7e316f7",
+    "data": [
+      {
+        "text": "I need a quote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2caeaf3f-64f0-472b-8e36-2a4b474e89b9",
+    "data": [
+      {
+        "text": "Get a quote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

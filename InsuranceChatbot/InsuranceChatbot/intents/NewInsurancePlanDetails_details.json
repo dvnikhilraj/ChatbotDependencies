@@ -1,0 +1,44 @@
+{
+  "id": "8db3d305-ec9c-4de6-8350-8c65c30c80ad",
+  "name": "NewInsurancePlanDetails_details",
+  "auto": true,
+  "contexts": [
+    "Save_Enquiry_Details",
+    "New_Insurance_Details_followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "NewInsurancePlanDetails.NewInsurancePlanDetails-custom",
+      "affectedContexts": [
+        {
+          "name": "Save_Enquiry_Details",
+          "lifespan": 5
+        },
+        {
+          "name": "New_Insurance_Details_followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

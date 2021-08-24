@@ -1,0 +1,53 @@
+{
+  "id": "dd0478d1-d210-458c-9c9c-c24878c6ac38",
+  "name": "Cancel_Policy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Cancel_Policy-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d9449980-e684-4ddd-83ab-1911d1ade568",
+          "name": "Policy_Number",
+          "required": true,
+          "dataType": "@Policy_Number",
+          "value": "$Policy_Number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Kindly provide your policy number"
+            },
+            {
+              "lang": "en",
+              "value": "Kindly enter your policy number"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

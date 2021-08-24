@@ -1,0 +1,41 @@
+[
+  {
+    "id": "72978309-a2ac-4daf-9a11-8aebb059c805",
+    "data": [
+      {
+        "text": "Commute",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7c0fbfb-f9c2-486f-acbb-3b4f0da0f36c",
+    "data": [
+      {
+        "text": "Business",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a26b7c4-9727-40b3-9cc9-a1e6559a4a11",
+    "data": [
+      {
+        "text": "Leisure Travel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

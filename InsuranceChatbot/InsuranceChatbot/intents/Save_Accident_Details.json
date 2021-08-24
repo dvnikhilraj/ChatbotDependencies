@@ -1,0 +1,47 @@
+{
+  "id": "8d2717b4-042b-453a-83bf-75c1f9ebeaed",
+  "name": "Save_Accident_Details",
+  "auto": true,
+  "contexts": [
+    "Save_Enquiry_Details"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Save_Enquiry_Details",
+          "lifespan": 5
+        },
+        {
+          "name": "Save_Accident_Details-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "Save_Accident_Details"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

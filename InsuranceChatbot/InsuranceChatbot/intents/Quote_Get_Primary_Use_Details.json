@@ -1,0 +1,38 @@
+{
+  "id": "175a2bff-9f09-4f71-9894-75708a7fbc27",
+  "parentId": "c8afa39b-be6d-48f4-b809-3c06f6de971e",
+  "rootParentId": "c9ee9589-63fb-441b-8711-f936ebd9e80a",
+  "name": "Quote_Get_Primary_Use_Details",
+  "auto": true,
+  "contexts": [
+    "Quote_VIN_VehicleType-followup",
+    "Vehicle_type_Follow_Up",
+    "Save_Enquiry_Details"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Get_Insurance_Quote.Get_Insurance_Quote-custom.Get_Insurance_Quote_Auto-custom.Get_Insurance_Quote_Auto_Zip-custom.Insurance_Quote_SaveData-custom.Quote_VIN-custom.Quote_VIN_Year-custom.Quote_VIN_VehicleType-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

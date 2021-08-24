@@ -1,0 +1,8 @@
+[
+  {
+    "value": "[A-HJ-NPR-Z0-9]{17}",
+    "synonyms": [
+      "[A-HJ-NPR-Z0-9]{17}"
+    ]
+  }
+]

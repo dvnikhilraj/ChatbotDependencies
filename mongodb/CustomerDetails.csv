@@ -1,0 +1,11 @@
+IDV,__v,_id,dueDate,expiryDate,insuranceType,name,policyId,startDate,state,status,zip
+2500000,0,60c1d75162aee91afce9b9b0,June 25 2021,March 11 2025,Third,John,9876543210,March 12 2020,Georgia,TRUE,30002
+2500000,0,60c1d75162aee91afce9b9b0,August 25 2021,March 11 2025,Third,Jameson,9875232120,March 12 2020,Georgia,TRUE,30002
+2500001,,60c1da637cff7d058c1c29e3,September 14 2021,September 23 2026,Own Damage,Michael,9765824223,September 22 2020,Alaska,TRUE,99801
+2500002,,60c1da637cff7d058c1c29e4,July 27 2021,March 06 2025,Third,Chandler,1234567890,March 05 2019,Arkansas,TRUE,72201
+2500003,,60c1da637cff7d058c1c29e5,August 05 2021,May 13 2027,Comprehensive,Joey,9765453455,May 12 2017,California,TRUE,94203
+2500004,,60c1da637cff7d058c1c29e6,September 13 2021,November 29 2027,Third,Lawrence,9765494566,November 28 2019,Indiana,FALSE,46201
+2500005,,60c1da637cff7d058c1c29e7,July 29 2021,August 26 2025,Coverage Damage,Steve,9236524227,August 25 2019,Missouri,FALSE,65101
+2500006,,60c1da637cff7d058c1c29e8,August 24 2021,December 12 2025,Coverage Damage,Williamson,9765810948,December 11 2020,Mississippi,TRUE,39201
+2500007,,60c1da637cff7d058c1c29e9,July 26 2021,November 19 2025,Third,Madison,9761997290,November 18 2018,Nevada,TRUE,89701
+2500008,,60c1da637cff7d058c1c29ea,September 13 2021,December 24 2026,Comprehensive,Robert,9765876540,December 23 2019,New Jersey,TRUE,8601

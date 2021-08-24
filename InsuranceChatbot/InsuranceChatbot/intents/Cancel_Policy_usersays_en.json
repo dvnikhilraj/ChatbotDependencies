@@ -1,0 +1,66 @@
+[
+  {
+    "id": "36987638-6271-4df4-9ac2-064597631e1d",
+    "data": [
+      {
+        "text": "Please cancel my policy ",
+        "userDefined": false
+      },
+      {
+        "text": "1234578900",
+        "meta": "@Policy_Number",
+        "alias": "Policy_Number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "510d4e6f-3a24-43cb-88f3-29b672aa2d12",
+    "data": [
+      {
+        "text": "Cancel my policy ",
+        "userDefined": false
+      },
+      {
+        "text": "1234567890",
+        "meta": "@Policy_Number",
+        "alias": "Policy_Number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6002b5c-ae7d-444f-b458-0b0eedaa2fdb",
+    "data": [
+      {
+        "text": "I would like to cancel my policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac2e474a-cbac-4082-9bc1-83be1e0e4e18",
+    "data": [
+      {
+        "text": "Cancel policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

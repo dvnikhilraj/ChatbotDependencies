@@ -1,0 +1,17 @@
+[
+  {
+    "id": "accb81c2-068a-47ad-9e58-8ab05ff0f0d3",
+    "data": [
+      {
+        "text": "98765",
+        "meta": "@sys.zip-code",
+        "alias": "zipCode",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

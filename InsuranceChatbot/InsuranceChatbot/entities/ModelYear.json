@@ -1,0 +1,9 @@
+{
+  "id": "11c797da-909a-47aa-bd3d-5de828908fd1",
+  "name": "ModelYear",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

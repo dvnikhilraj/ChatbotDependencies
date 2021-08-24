@@ -1,0 +1,41 @@
+[
+  {
+    "id": "78060200-4b44-4c5b-875d-5aba673d7b8f",
+    "data": [
+      {
+        "text": "Vehicle sold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36c718dc-6c9c-4027-aa54-347f93b9db26",
+    "data": [
+      {
+        "text": "Vehicle theft",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa61c9fe-d700-4eb3-b9ed-e80a548eba61",
+    "data": [
+      {
+        "text": "Behind on payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

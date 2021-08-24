@@ -1,0 +1,54 @@
+{
+  "id": "a7e408b4-8ed6-4a52-a083-8906200c6671",
+  "name": "Renew_Policy_Duration",
+  "auto": true,
+  "contexts": [
+    "Renew_Policy_Otp_Verification-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Renew_Policy.Renew_Policy-custom.Renew_Policy_Otp_Verification-custom",
+      "affectedContexts": [
+        {
+          "name": "Renew_Policy_Duration-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8b4226d5-a61e-42fd-97f6-602b719afaa6",
+          "name": "duration",
+          "required": false,
+          "dataType": "@sys.duration",
+          "value": "$duration",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

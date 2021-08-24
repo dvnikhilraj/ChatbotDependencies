@@ -1,0 +1,47 @@
+[
+  {
+    "id": "0b03e93f-c435-4eec-a98b-17d82109e1ea",
+    "data": [
+      {
+        "text": "Renew policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "affb5b9a-eb1e-4a86-b6eb-f83615b18d14",
+    "data": [
+      {
+        "text": "I want to renew my policy ",
+        "userDefined": false
+      },
+      {
+        "text": "9876543210",
+        "meta": "@Policy_Number",
+        "alias": "Policy_Number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d038a80-06be-469e-9744-633c0510a1fc",
+    "data": [
+      {
+        "text": "renew",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

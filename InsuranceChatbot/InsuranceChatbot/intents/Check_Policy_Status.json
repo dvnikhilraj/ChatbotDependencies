@@ -1,0 +1,61 @@
+{
+  "id": "1381710e-b216-4342-86a2-b0dc6ea6be72",
+  "name": "Check_Policy_Status",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Check_Policy_Status-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "590e84cc-c311-4cc3-b963-81bc9d67edd5",
+          "name": "Policy_Number",
+          "required": true,
+          "dataType": "@Policy_Number",
+          "value": "$Policy_Number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Kindly provide your policy number"
+            },
+            {
+              "lang": "en",
+              "value": "Kindly enter your policy number"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

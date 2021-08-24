@@ -1,0 +1,57 @@
+{
+  "id": "94dc46c1-4e08-4b54-82d1-5ca1e015cad1",
+  "name": "Renew_Policy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Renew_Policy-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9677433f-cc75-42ab-9af9-784da1c775af",
+          "name": "Policy_Number",
+          "required": true,
+          "dataType": "@Policy_Number",
+          "value": "$Policy_Number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your policy number"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

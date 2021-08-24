@@ -1,0 +1,42 @@
+{
+  "id": "be1e3cd0-e07c-4b5d-8a5e-6981b3ff3a1a",
+  "parentId": "50f5727f-94fd-4897-9be1-71757a210510",
+  "rootParentId": "ba909bc6-2542-4f01-99dc-ca8130cbd054",
+  "name": "Accident_Enquiry_yes_Violation",
+  "auto": true,
+  "contexts": [
+    "Accident_Enquiry_yes-followup",
+    "Save_Enquiry_Details"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Accident_Enquiry.Accident_Enquiry-yes.Accident_Enquiry_yes-custom-2",
+      "affectedContexts": [
+        {
+          "name": "Save_Enquiry_Details",
+          "lifespan": 15
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

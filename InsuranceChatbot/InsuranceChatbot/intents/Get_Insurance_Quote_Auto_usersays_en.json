@@ -1,0 +1,54 @@
+[
+  {
+    "id": "04ead4da-5f35-4476-9eba-7597459a5340",
+    "data": [
+      {
+        "text": "Offroad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c5b52e7-c21c-4326-bdeb-74b11f7d77dd",
+    "data": [
+      {
+        "text": "Motorbike",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8eba4d25-a6d3-451e-952f-965981b4d349",
+    "data": [
+      {
+        "text": "Auto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4f8f7c1-fa0d-45b7-9e9f-632f2ab5a168",
+    "data": [
+      {
+        "text": "autoo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

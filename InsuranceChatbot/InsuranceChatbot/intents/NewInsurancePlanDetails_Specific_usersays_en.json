@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2258f2d9-2000-45f6-9f09-2518d0c6ed9b",
+    "data": [
+      {
+        "text": "Uninsured /Underinsured Motorist Protection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "180b64e8-e2f8-44ff-a562-177f2c407b4f",
+    "data": [
+      {
+        "text": "Personal Injury Protection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c27b4ab-3c61-4a23-83ef-9f9688de7df5",
+    "data": [
+      {
+        "text": "Collision Coverage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4839d8c-29bf-43b9-a0ef-2622c2dac72a",
+    "data": [
+      {
+        "text": "Liability Insurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "583f928b-c220-446d-b179-3eb05633c7a1",
+    "data": [
+      {
+        "text": "Comprehensive Coverage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

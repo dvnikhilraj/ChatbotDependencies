@@ -1,0 +1,61 @@
+{
+  "id": "209cc2e8-aea9-4c1c-ac2b-0e9d7ad59863",
+  "parentId": "94dc46c1-4e08-4b54-82d1-5ca1e015cad1",
+  "rootParentId": "94dc46c1-4e08-4b54-82d1-5ca1e015cad1",
+  "name": "Renew_Policy_Otp_Verification",
+  "auto": true,
+  "contexts": [
+    "Renew_Policy-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Renew_Policy.Renew_Policy-custom",
+      "affectedContexts": [
+        {
+          "name": "Renew_Policy_Otp_Verification-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "611d6da4-6ded-4573-868a-9c03222e11ad",
+          "name": "Otp_Number",
+          "required": false,
+          "dataType": "@Otp_Number",
+          "value": "$Otp_Number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

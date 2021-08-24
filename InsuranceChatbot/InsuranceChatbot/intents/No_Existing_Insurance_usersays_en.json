@@ -1,0 +1,28 @@
+[
+  {
+    "id": "2ec50cc8-c8cb-44ae-ac40-d2519566aac3",
+    "data": [
+      {
+        "text": "Never Insured",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "387a0efa-82fe-4841-b00a-2a174d22ebe9",
+    "data": [
+      {
+        "text": "90 days",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
